@@ -13,7 +13,7 @@ from,to,relationship,cost
 "Arina","Galina","FOLLOWS","5.2"
 "Anya","Oleg","FOLLOWS","0.4"
 "Anton","Ivan","FOLLOWS","2.2"
-"Anton","Gera","FOLLOWS","0.1"
+"Anton","Tom","FOLLOWS","0.1"
 "Regina","Inna","FOLLOWS","1.7"
 "Tom","Gera","FOLLOWS","2.5"
 "Roman","Maksim","FOLLOWS","0.9"
